@@ -38,11 +38,12 @@ summon Zombie ~ ~1 ~ {Riding:{id:Slime, Riding:{id:MushroomCow, Riding:{id:Creep
 And if you want it to fly!
 ```powershell
 summon Zombie ~ ~1 ~ {Riding:{id:Slime, Riding:{id:MushroomCow, Riding:{id:Creeper, Riding:{id:Villager, Riding:{id:Skeleton, Riding:{id:Spider, Riding:{id:Chicken, Riding:{id:Pig, Riding:{id:Cow, Riding:{id:Sheep, Riding:{id:PigZombie, Riding:{id:Enderman,Riding:{id:CaveSpider, Riding:{id:SnowMan, Riding:{id:Witch, Riding:{id:Bat}}}}}}}}}}}}}}}}
-
+```
 
 ***
 
 This is one for Maddy
+
 ```powershell
 /summon Ozelot ~0 ~1 ~0 {Equipment:[{Count:1,id:diamond_sword,tag:{Unbreakable:1}},{},{},{},{Count:1,id:diamond_helmet}],CustomName:MaddysCats,CustomNameVisible:1,Attributes:[{Name:generic.movementSpeed,Base:1.0}],DropChances:[0.5F,0.0F,0.0F,0.0F,0.2F],ActiveEffects:[{Id:6,Amplifier:1,Duration:999999},{Id:1,Amplifier:1,Duration:999999}],Invulnerable:1,1}
 ```
